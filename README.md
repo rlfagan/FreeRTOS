@@ -1,4 +1,6 @@
 ## Getting started
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FFreeRTOS.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FFreeRTOS?ref=badge_shield)
+
 The easiest way to use FreeRTOS is to start with one of the pre-configured demo application projects (found in the FreeRTOS/Demo directory).  That way you will have the correct FreeRTOS source files included, and the correct include paths configured.  Once a demo application is building and executing you can remove the demo application files, and start to add in your own application source files.  See the [FreeRTOS Kernel Quick Start Guide](https://www.freertos.org/FreeRTOS-quick-start-guide.html) for detailed instructions and other useful links.
 
 Additionally, for FreeRTOS kernel feature information refer to the [Developer Documentation](https://www.freertos.org/features.html), and [API Reference](https://www.freertos.org/a00106.html).
@@ -43,3 +45,7 @@ documentation, demo usability, or test coverage.  At this time the projects ARE 
 
 ## Previous releases
 Previous releases are available for download under [releases](https://github.com/FreeRTOS/FreeRTOS/releases).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FFreeRTOS.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FFreeRTOS?ref=badge_large)
